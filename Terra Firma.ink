@@ -1,5 +1,11 @@
+INCLUDE Delta One.ink
+INCLUDE Delta Two.ink
+
+
+
 Cap it's 1300 hundred, we need to head over to the war room
- * War Room -> WarRoom
+
+ *War Room -> WarRoom
 
 ==WarRoom==
 General: Alright Ladies listen up, we just got intel from the higher-ups and they need you to hand it over to Alpha Checkpoint. This is just a recon mission meaning travel light and only bring what you need. That means no grenades...Lex... 
@@ -8,10 +14,14 @@ General: Alright Ladies listen up, we just got intel from the higher-ups and the
 ==LockerRoom==
 #Sounds of guns and equitment being grabbed. 
 Hentod: Okay boys, let's gear up and go over the plan, This will be a recon mission, Do not make contact unless they attack first. There will be two teams, Lex you're with me. Moose, JJ, you got each other's six. We will both reach Alpha point and regroup.
-
-
- * Lex brings a grenade or two
- * Lex followers order and leaves grenade
+ * Lex brings a grenade or two -> Helicopter
+ * Lex followers order and leaves grenade -> Helicopter
+ 
+ ==Helicopter==
+ Pilot:  ETA T - 10 minutes, once you boys are on the ground you are on your own. 
+ As delta squad gets ready to drop down from the helicopter they all had a gut feeling that something was not right. Due to missions coming first they brush off the feeling and home and become focused.
+*Delta Team 1(Hentod and Lex) -> Delta1
+*Delta Team 2(Moose and JJ) -> Delta2
 
 
 - They lived happily ever after.
