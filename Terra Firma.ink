@@ -8,6 +8,7 @@ Cap it's 1300 hundred, we need to head over to the war room
  *War Room -> WarRoom
 
 ==WarRoom==
+# IMAGE: fear/warroom.png 
 General: Alright Ladies listen up, we just got intel from the higher-ups and they need you to hand it over to Alpha Checkpoint. This is just a recon mission meaning travel light and only bring what you need. That means no grenades...Lex... 
 * Locker Room -> LockerRoom
 
