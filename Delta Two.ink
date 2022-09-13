@@ -9,6 +9,7 @@ While getting closer and closer the stench of wet dog fills the air. Like the sm
 
 ==sewer==
 Going down the ladder 
-
+# IMAGE: fear/Sewer.webp
+# AUDIO: fear/SewerWater.mp3
 
 -> END
