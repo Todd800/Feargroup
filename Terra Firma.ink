@@ -13,7 +13,7 @@ General: Alright Ladies listen up, we just got intel from the higher-ups and the
 * Locker Room -> LockerRoom
 
 ==LockerRoom==
-#Sounds of guns and equitment being grabbed.
+# AUDIO: fear/GunSound.wav
 # IMAGE: fear/lockerroom.jpg
 Hentod: Okay boys, let's gear up and go over the plan, This will be a recon mission, Do not make contact unless they attack first. There will be two teams, Lex you're with me. Moose, JJ, you got each other's six. We will both reach Alpha point and regroup.
  * Lex brings a grenade or two -> Helicopter
