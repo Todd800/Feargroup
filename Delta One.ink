@@ -114,4 +114,5 @@ As Lex make it away from Hentod all of the dogs start to go after him and then o
 
 ==Death==
 Hentod convince Lex not to do it and we will find another way out of this and both go home As they both lay traps and use multiple methods in order to stop the dog there was nothing left to do and found themselves surrender and the only thing they could do was fight. As they keep fighting them off one of the dog got to Lex leg as his fall onto one knee Hentod tried to pick him up saidly having his back turn for a second a dog got onto his back and went for the finale blow and took a big chunk of Hentod neck and Hentod just lifeless laying on the ground and As all Lex could do it wait for his turn to be eating he remember everything from his past and just hope for forgiveness.
+
 -> END
