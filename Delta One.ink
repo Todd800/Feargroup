@@ -1,15 +1,18 @@
 ==Delta1==
 # AUDIO: fear/wind.mp3
-As delta 1 heads northwest away from delta 2. They notice the wind getting a little colder, and the leaf raffling as every 50 miles they get the feel of something following them from a dark shadow in the treelines. -> town
+As delta 1 heads northwest away from delta 2. They notice the wind getting a little colder, and the leaf raffling as every 50 miles they get the feel of something following them from a dark shadow in the treelines. 
+*town -> town
 
 ==town==
 # IMAGE: fear/ghosttown.jpg
 Delta1 has entered a town
-Making their way through the town it was quite quiet like you could hear your own heartbeat and footsteps, the quietness felt eerie. Every little sound seemed so loud like it was right in our ears even the ones you think you could never hear were there.->Sbuilding
-==Sbuilding==
-*While making their way through the town they noticed there was not much life.
- All they have seen of shadowy figures while making their way throw alleyways and some buildings they have walked past. The building looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
-Lex  looks like there is no way around this one Hentod.
+Making their way through the town it was quite quiet like you could hear your own heartbeat and footsteps, the quietness felt eerie. Every little sound seemed so loud like it was right in our ears even the ones you think you could never hear were there.
+
+*Building -> Building
+
+==Building==
+While making their way through the town they noticed there was not much life. all they've seen were shadowy figures while making their way throw alleyways and some buildings they have walked past. The building looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
+Lex looks like there is no way around this one Hentod.
 Hentod  your right about this one 
 Lex  Alright then on me Hentod let's get this over and done with.
 While Lex was stack on to Hentod waiting for him to open the door. Once Hentod had placed his hand on the knob the door just crumbled, Lex took point and look inside before making his way inside.

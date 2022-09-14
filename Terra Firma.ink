@@ -15,14 +15,16 @@ General: Alright Ladies listen up, we just got intel from the higher-ups and the
 ==LockerRoom==
 # AUDIO: fear/GunSound.wav
 # IMAGE: fear/lockerroom.jpg
-Hentod: Okay boys, let's gear up and go over the plan, This will be a recon mission, Do not make contact unless they attack first. There will be two teams, Lex you're with me. Moose, JJ, you got each other's six. We will both reach Alpha point and regroup.
-  Lex does not listions to ether the general or even Cap-> Helicopter
+Hentod: Okay boys, let's gear up and go over the plan, This will be a recon mission,do not make contact unless they attack first. There will be two teams, Lex you're with me. Moose, JJ, you got each other's six. We will both reach Alpha point and regroup.
+
+  *Helicopter -> Helicopter
  
  ==Helicopter==
  # AUDIO: fear/helicopter.wav
  # IMAGE: fear/helicopter.jpg
  Pilot:  ETA T - 10 minutes, once you boys are on the ground you are on your own. 
  As delta squad gets ready to drop down from the helicopter they all had a gut feeling that something was not right. Due to missions coming first they brush off the feeling and home and become focused.
+ 
 *Delta Team 1(Hentod and Lex) -> Delta1
 *Delta Team 2(Moose and JJ) -> Delta2
 
