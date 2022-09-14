@@ -1,41 +1,51 @@
 ==Delta1==
 # AUDIO: fear/wind.mp3
-As delta 1 heads northwest away from delta 2. They notice the wind getting a little colder, and the leaf raffling as every 50 miles they get the feel of something following them from a dark shadow in the treelines. 
-*town -> town
+As delta 1 heads northwest away from delta 2. They notice the wind getting a little colder, and the leaves raffling as every 50 miles they get the feel of something following them from a dark shadow in the treelines. 
+*Delta01 -> Delta01
 
-==town==
+==Delta01==
 # IMAGE: fear/ghosttown.jpg
-Delta1 has entered a town
+ has entered a town
 Making their way through the town it was quite quiet like you could hear your own heartbeat and footsteps, the quietness felt eerie. Every little sound seemed so loud like it was right in our ears even the ones you think you could never hear were there.
 
-*Building -> Building
+*While -> While
 
-==Building==
-While making their way through the town they noticed there was not much life. all they've seen were shadowy figures while making their way throw alleyways and some buildings they have walked past. The building looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
-Lex looks like there is no way around this one Hentod.
-Hentod  your right about this one 
-Lex  Alright then on me Hentod let's get this over and done with.
-While Lex was stack on to Hentod waiting for him to open the door. Once Hentod had placed his hand on the knob the door just crumbled, Lex took point and look inside before making his way inside.
-Hentod: Do you see that Lex?
-Lex: Yea I do, looks like some kind of string?
-Hentod: Agreed
-Lex: Let's just mark it then go around it
-Making it inside there were clear markers of blood sprayed all over the wall we quickly noticed there were no lights inside all doors were open if not open they were non-existing. While clearing multiple rooms we saw a balcony while making our way through this building it felt like we were going no wear and like we were trapped in a maze.
+==While==
+ making their way through the town they noticed there was not much life. all they've seen were shadowy figures while making their way through alleyways and some buildings. The buildings looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
+
+*Lex -> Lex
+
+==Lex==
+: Looks like there's no way around.
+Hentod: Then let's just go through.
+Lex: Alright then, on me.
+
+As they move towards the door, Lex's positions himself on the side, waiting for Hentod's signal. Once Hentod placed his hand on the doorknob, the door crumbled. Lex took point and looked inside.
+*Making -> Making
+
+==Making==
+
+ it inside there were clear markers of blood sprayed all over the wall they quickly noticed there were no lights, all the doors were either open or non-existent. While clearing multiple rooms they saw a balcony.While making their way through the building it felt like they were going nowhere and like they were trapped in a maze.
 
 Before making their way to the balcony there was one more room to check. 
-Lex "cover me"
 
-Lex waited a few seconds before making his way inside while Hentod was behind him, as of now these two have not seen a single person but yet here there was a person. More or less Lex grabbed the person by the back of the collar and lay on top of it to strike it while his rifle was in the air waiting to bash this person's head . Lex took a better look and it was just a mannequin.
+Lex: Cover me
 
-Lex to Hentod " not a fucking word."
+Lex waited a few seconds before making his way inside while Hentod was behind him, as of now these two have not seen a single person but yet here there was a person. More or less Lex grabbed the person by the back of the collar and lay on top of it to strike it while his rifle was in the air waiting to bash this person's head . Lex took a better look and it was just a mannequin. A snicker was heard from behind.
 
-Both Hentod and Lex were on the balcony. Every step they took it would creek other than that both of them could see alpha point. 
+Lex: Not a fucking word.
+
+While Hentod and Lex were on the balcony, the floor kept creeking and it felt like every step they took could be their last, but thankfully they could see alpha point from here.
 
 Making their way out of the building.
-Hentod to Lex do you see that?
-Lex yeah I do, could that be a string?
-Hentod looks like it.”
-Lex let's mark it and go around it
+*Hentod -> Hentod
+
+==Hentod==
+: Do you see that Lex?
+Lex: I do, looks like it's some kind of string?
+Hentod: Agreed
+Lex: Let's mark it then go around it
+
 
 Hentod studies the string
 * Negative. Let's find the source then cut it. -> D2AP
@@ -70,10 +80,13 @@ JJ ran past both Hen and Lex to Check up on Moose but Hen and Lex had a bad feel
 ==JJlives==
 Before JJ could go any farther Lex had stop JJ and told him to take a closer look at Moose Before they knew it Moose was half way to lex and JJ next there was a ban Hentod “ it had to be done that is no longer the Moose that we know he is one of them.”
 After a few hours later of waiting the helicopter came and the three of them boarded and only told the pileat to get them out of there
+-> DONE
+
 ==JJdie==
 Before Lex could get a single grip on JJ he made it to Moose
 JJ “he Moose buddy you alright?” without a response from Moose he asked again hey buddy you…. 
 Before JJ could finish his word Moose had struck his hand through JJ abdomen leaving a hole looking the other way of his body before Moose could take his hand out of JJ body JJ looked back to Hentod and Lex and said survive for the both of us. After that he took his pistione out and shot Moose in the head. Both bodies dropped to the ground and the only sound that could be heard was their scream as their brother in arms had died right in front of them without being able to do anything about it. After a few hours later of waiting, the helicopter came and the two of them boarded and only told the pileat to get them out of there
+-> DONE
 
 ==D2NAP==
 Once Delta 1 had made it to the alpha point
@@ -115,6 +128,7 @@ Stop Lex and figure something out -> Death
 ==Live==
 As Lex make it away from Hentod all of the dogs start to go after him and then once Lex was at a great distance he pull the pin releases the handle, 4, 3, 2, 1 boom everything went silent and Hentod had when to the helicopter and told the pilot to get out of here.
 
+-> DONE
 ==Death==
 Hentod convince Lex not to do it and we will find another way out of this and both go home As they both lay traps and use multiple methods in order to stop the dog there was nothing left to do and found themselves surrender and the only thing they could do was fight. As they keep fighting them off one of the dog got to Lex leg as his fall onto one knee Hentod tried to pick him up saidly having his back turn for a second a dog got onto his back and went for the finale blow and took a big chunk of Hentod neck and Hentod just lifeless laying on the ground and As all Lex could do it wait for his turn to be eating he remember everything from his past and just hope for forgiveness.
 
