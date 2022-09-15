@@ -5,13 +5,16 @@ As delta 1 heads northwest away from delta 2. They notice the wind getting a lit
 
 ==Delta01==
 # IMAGE: fear/ghosttown.jpg
+ #AUDIO PLACEMENT- find a sound that matches the tone below
  has entered a town
 Making their way through the town it was quite quiet like you could hear your own heartbeat and footsteps, the quietness felt eerie. Every little sound seemed so loud like it was right in our ears even the ones you think you could never hear were there.
 
 *While -> While
 
 ==While==
+#IMAGE-Of a crumbling building
  making their way through the town they noticed there was not much life. all they've seen were shadowy figures while making their way through alleyways and some buildings. The buildings looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
+
 
 *Lex -> Lex
 
@@ -20,7 +23,12 @@ Making their way through the town it was quite quiet like you could hear your ow
 Hentod: Then let's just go through.
 Lex: Alright then, on me.
 
-As they move towards the door, Lex's positions himself on the side, waiting for Hentod's signal. Once Hentod placed his hand on the doorknob, the door crumbled. Lex took point and looked inside.
+#IMAGE- Of soldiers stacking on each other
+
+As Lex and Hentod made it to the building Hentod was ready at the door with his hand hovering above the knob and Lex stack behind Hentod once he place his hand on the knob it had crumble from the weight of his and lex had circle around Hentod and took point to look inside. Once Lex pointed within the door an 
+#Have an sound of a falling object.
+Mannequin had dropped down and it was hanging there and swinging from right to left.
+
 *Making -> Making
 
 ==Making==
@@ -80,13 +88,13 @@ JJ ran past both Hen and Lex to Check up on Moose but Hen and Lex had a bad feel
 ==JJlives==
 Before JJ could go any farther Lex had stop JJ and told him to take a closer look at Moose Before they knew it Moose was half way to lex and JJ next there was a ban Hentod “ it had to be done that is no longer the Moose that we know he is one of them.”
 After a few hours later of waiting the helicopter came and the three of them boarded and only told the pileat to get them out of there
--> DONE
+-> END
 
 ==JJdie==
 Before Lex could get a single grip on JJ he made it to Moose
 JJ “he Moose buddy you alright?” without a response from Moose he asked again hey buddy you…. 
 Before JJ could finish his word Moose had struck his hand through JJ abdomen leaving a hole looking the other way of his body before Moose could take his hand out of JJ body JJ looked back to Hentod and Lex and said survive for the both of us. After that he took his pistione out and shot Moose in the head. Both bodies dropped to the ground and the only sound that could be heard was their scream as their brother in arms had died right in front of them without being able to do anything about it. After a few hours later of waiting, the helicopter came and the two of them boarded and only told the pileat to get them out of there
--> DONE
+-> END
 
 ==D2NAP==
 Once Delta 1 had made it to the alpha point
@@ -128,7 +136,7 @@ Stop Lex and figure something out -> Death
 ==Live==
 As Lex make it away from Hentod all of the dogs start to go after him and then once Lex was at a great distance he pull the pin releases the handle, 4, 3, 2, 1 boom everything went silent and Hentod had when to the helicopter and told the pilot to get out of here.
 
--> DONE
+-> END
 ==Death==
 Hentod convince Lex not to do it and we will find another way out of this and both go home As they both lay traps and use multiple methods in order to stop the dog there was nothing left to do and found themselves surrender and the only thing they could do was fight. As they keep fighting them off one of the dog got to Lex leg as his fall onto one knee Hentod tried to pick him up saidly having his back turn for a second a dog got onto his back and went for the finale blow and took a big chunk of Hentod neck and Hentod just lifeless laying on the ground and As all Lex could do it wait for his turn to be eating he remember everything from his past and just hope for forgiveness.
 
