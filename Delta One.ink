@@ -26,7 +26,7 @@ Lex: Alright then, on me.
 #IMAGE: fear/soldierstacking.jpg
 
 As Lex and Hentod made it to the building Hentod was ready at the door with his hand hovering above the knob and Lex stack behind Hentod once he place his hand on the knob it had crumble from the weight of his and lex had circle around Hentod and took point to look inside. Once Lex pointed within the door an 
-#Have an sound of a falling object.
+#AUDIO: fear/SwingSound.wav
 Mannequin had dropped down and it was hanging there and swinging from right to left.
 
 *Making -> Making
