@@ -23,7 +23,7 @@ Making their way through the town it was quite quiet like you could hear your ow
 Hentod: Then let's just go through.
 Lex: Alright then, on me.
 
-#IMAGE- Of soldiers stacking on each other
+#IMAGE: fear/soldierstacking.jpg
 
 As Lex and Hentod made it to the building Hentod was ready at the door with his hand hovering above the knob and Lex stack behind Hentod once he place his hand on the knob it had crumble from the weight of his and lex had circle around Hentod and took point to look inside. Once Lex pointed within the door an 
 #Have an sound of a falling object.
