@@ -3,7 +3,7 @@ INCLUDE Delta Two.ink
 
 
 
-Captain it's 1300 hundred, we need to head over to the war room
+Lex: Captain Hentod it's 1300 hundred, we need to head over to the war room
 
  *War Room -> WarRoom
 
