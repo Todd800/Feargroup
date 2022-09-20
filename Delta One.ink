@@ -5,14 +5,14 @@ As delta 1 heads northwest away from delta 2. They notice the wind getting a lit
 
 ==Delta01==
 # IMAGE: fear/ghosttown.jpg
- #AUDIO PLACEMENT- find a sound that matches the tone below
+ #AUDIO: fear/eerienoise.wav 
  has entered a town
 Making their way through the town it was quite quiet like you could hear your own heartbeat and footsteps, the quietness felt eerie. Every little sound seemed so loud like it was right in our ears even the ones you think you could never hear were there.
 
 *While -> While
 
 ==While==
-#IMAGE-Of a crumbling building
+# IMAGE: fear/building.jpg
  making their way through the town they noticed there was not much life. all they've seen were shadowy figures while making their way through alleyways and some buildings. The buildings looked like they could crumble if you make one wrong move but yet unknown to them they would have to enter one of the buildings in order to make it to Alpha point.
 
 
@@ -39,14 +39,14 @@ A mannequin had dropped down and it was hanging there and swinging from right to
  
  ==lex==
 
-#Find an image of a bloody wall
+#IMAGE: fear/bloodywall.jpg
 
 : that's a lot of blood on there, how many people do you think died here?
 Hentod: Don't know, but let's make sure that we don't join them.
 * Quickly -> Quickly
 
 ==Quickly== 
-#Find a sound of flickering lights
+#AUDIO: fear/lights.wav
 noticed there were some lights flickering or no lights at all. All the doors were either open or non-existent. While clearing multiple rooms going down a half litton hallway they keep getting the feeling like they are not the only one's, later on they see a balcony. While making their way to the balcony it felt like they were going nowhere no matter how many stairs they go up or how many corners that go around, like they were trapped in a maze.
 *Before -> Before
 
@@ -86,11 +86,11 @@ Getting the flares randy to show our location we notice two figures approaching 
 *as -> as 
 
 ==as==
-#Find a sound of relief of breathing
+#AUDIO: fear/relief.m4a
 we lowered our rifles we breathe in relieve that these two made it.
 
 While waiting for the helicopter to arrive
-#Sound of grass and leaves moving 
+#AUDIO: fear/grass.wav
 
 There was rustling in the grass and even in the trees. As we stood facing one direction there was a dog?
 
@@ -106,7 +106,7 @@ warning the dog lunged at JJ,
 *all -> all
 
 ==all==
- #Sound of body dragging keep this one short
+#AUDIO: fear/body.ogg
 you hear is Moose being dragged by his feet by the same creatures into the wood and all 
 Sound of screaming and gun shoot this one short and fading away
 You hear him streaming and his gun going off as it gets quieter and to the point it goes completely silent.
@@ -132,20 +132,20 @@ JJ ran past both Hen and Lex to Check up on Moose but Hen and Lex had a bad feel
 Before JJ could go any farther Lex had stop JJ and told him to take a closer look at Moose Before they knew it Moose was half way to lex and JJ next there was a audio one shot
  Hentod: it had to be done that is no longer the Moose we know he was one of them.
 After a few hours of waiting the helicopter came and the three of them boarded and only told the pilot to get them out of there. 
-#Audio of helicopter flying away
+#AUDIO: fear/helicopter2.wav
 -> END
 
 ==JJdie==
 .
 Before Lex could get a single grip on JJ he made it to Moose
 JJ: Moose buddy you alright? without a response from Moose he asked again hey buddy you….  
-#Audio of penetration
+#AUDIO: fear/stabbing.wav
 Before JJ could finish his word Moose had struck his hand through JJ abdomen leaving a hole looking the other way of his body before Moose could take his hand out of JJ body JJ looked back to Hentod and Lex and said 
 *survive -> survive
 
 ==survive==
  for the both of us. After that he took his pistol out and shot Moose in the head. Both bodies dropped to the ground, the only sound that could be heard was their scream as their brother in arms had died right in front of them without being able to do anything about it. After a few hours of waiting, the helicopter came and the two of them boarded and only told the pilot to get them out of there. 
- #Audio of helicopter flying away
+#AUDIO: fear/helicopter2.wav
 -> END
 
 ==D2NAP==
@@ -154,7 +154,7 @@ Once Delta 1 had made it to the alpha point
 Over there comms they can hear the General
 General: Delta 0-1 Once you make it to alpha point mark it with flares to have the helicopter make it to your location
 Hentod: Roger you last 0-1 out. As Hentod and Lex place out the flares they have
-#Same Sound of grass
+#AUDIO: fear/grass.wav
 noticed rustling within the grass as both brace themselves to see what it was, it was a dog. However it did not look like any other dog like back at home. It was cloud white no fur on its body, not even a single fur on that thing. Not keeping their eyes off of it, it started to run at them, it was fast to fast to get our weapons ready to fire and
 *it -> it
 
@@ -204,14 +204,14 @@ Lex: What opposition do we have? We can't kill them with our bullets.
 ==Live==
 .
 As Lex makes it away from Hentod all of the dogs start to go after Lex, once lex was at a great distance he pulls the pin and releases the handle, 4, 3, 2, 1 boom
-#AUDIO of a grenade exploding
+#AUDIO: fear/kaboom.flac
 everything went silent. Hentod had gone to the helicopter and told the pilot to get out of here.
 
 -> END
 ==Death==
-#AUDIO gun fire that slowly fades away or comes to a stop
+#AUDIO: fear/gunfire.wav
 .
 Hentod convince Lex not to do it and we will find another way out of this and both go home. As they both laid traps and used multiple methods in order to stop the dog there was nothing left to do and found themselves surrendered, the only thing they could do was fight. As they keep fighting them off one of the dog got to Lex leg as his fall onto one knee Hentod tried to pick him up saidly having his back turn for a second a dog got onto his back and went for the finale blow and took a big chunk of Hentod neck and Hentod lifeless. 
-#AUDIO of something being eating/torn apart 
+#AUDIO: fear/dogeating.wav
 laying on the ground all Lex could do it wait for his turn to be eating he remember everything from his past and just hope for forgiveness.
 -> END
